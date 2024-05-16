@@ -1,6 +1,7 @@
 
 Ссылка на документ ISTQB 
-https://www.rstqb.org/ru/istqb-downloads.html?file=files/content/rstqb/downloads/ISTQB%20Downloads/ISTQB_CTFL_Syllabus_2018_RU.pdf&cid=37664
+скачан сюда в репозиторий
+https://github.com/SvetlanaLukyano/My-repo/blob/main/ISTQB_CTFL_Syllabus_2018_RU.pdf
 
 
 ссылка на Markdown  
@@ -33,4 +34,6 @@ https://www.rstqb.org/ru/istqb-downloads.html?file=files/content/rstqb/downloads
 UML диаграммы
 BPMN Business Process Model and Notation диаграммы
 Flowcharts диаграммы
+
+
 
