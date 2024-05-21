@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,7 +167,10 @@
   "active": "c248ecdc76d69709",
   "lastOpenFiles": [
     "Работа с консолью/Консоль. Команда ls.md",
+    "github-update.sh",
     "Работа с консолью/Git Bash.md",
+    "Pasted image 20240521201154.png",
+    "Pasted image 20240521194153.png",
     "Templates/Basic Note.md",
     "Templates/Daily Note.md",
     "Работа с консолью",
