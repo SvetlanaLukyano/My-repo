@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с консолью/Git Bash.md",
+                "file": "Схема работы с Obsidian/Права пользователей в Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9637e27fd5bc691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Схема работы с Obsidian/Права пользователей в Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с консолью/Git Bash.md",
+                "file": "Схема работы с Obsidian/Права пользователей в Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с консолью/Git Bash.md",
+                "file": "Схема работы с Obsidian/Права пользователей в Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с консолью/Git Bash.md"
+                "file": "Схема работы с Obsidian/Права пользователей в Linux.md"
               }
             }
           }
@@ -161,14 +174,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c248ecdc76d69709",
+  "active": "f9637e27fd5bc691",
   "lastOpenFiles": [
-    "Работа с консолью/Консоль. Команда ls.md",
-    "github-update.sh",
+    "Права пользователей в Linux.pdf",
+    "Pasted image 20240523202830.png",
+    "Tests/Untitled.md",
     "Работа с консолью/Git Bash.md",
+    "Работа с консолью/Untitled.md",
+    "Работа с консолью/Консоль. Команда ls.md",
+    "Excalidraw/Drawing 2024-05-23 19.22.24.excalidraw.md",
+    "Схема работы с Obsidian/Права пользователей в Linux.md",
+    "Excalidraw",
+    "Схема работы с Obsidian",
+    "github-update.sh",
     "Pasted image 20240521201154.png",
     "Pasted image 20240521194153.png",
     "Templates/Basic Note.md",
