@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Схема работы с Obsidian/Untitled.md",
+                "file": "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схема работы с Obsidian/Untitled.md",
+                "file": "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схема работы с Obsidian/Untitled.md",
+                "file": "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Схема работы с Obsidian/Untitled.md"
+                "file": "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md"
               }
             }
           }
@@ -180,10 +180,10 @@
   },
   "active": "f9637e27fd5bc691",
   "lastOpenFiles": [
-    "Схема работы с Obsidian/Поиск по файлам.md",
-    "Схема работы с Obsidian/Untitled.md",
-    "Схема работы с Obsidian/Права пользователей в Linux.md",
     "Схема работы с Obsidian/Редактирование и Чтение файлов в Linux.md",
+    "Схема работы с Obsidian/Права пользователей в Linux.md",
+    "Схема работы с Obsidian/Поиск по файлам.md",
+    "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
     "Pasted image 20240523211531.png",
     "Работа с консолью/Git Bash.md",
     "Untitled",
@@ -220,7 +220,6 @@
     "2024-05-14.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Untitled.md",
     "==статическим тестированием==.md"
   ]
 }
