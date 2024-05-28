@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
+                "file": "Работа с консолью/Git Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
+                "file": "Работа с консолью/Git Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
+                "file": "Работа с консолью/Git Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md"
+                "file": "Работа с консолью/Git Bash.md"
               }
             }
           }
@@ -174,30 +174,37 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "f9637e27fd5bc691",
   "lastOpenFiles": [
+    "Pasted image 20240528210321.png",
+    "Pasted image 20240528210143.png",
+    "Pasted image 20240528202327.png",
+    "Pasted image 20240528202210.png",
+    "Pasted image 20240528194148.png",
+    "Pasted image 20240528191941.png",
+    "Pasted image 20240528191544.png",
+    "Pasted image 20240528191518.png",
     "Схема работы с Obsidian/Редактирование и Чтение файлов в Linux.md",
+    "Работа с консолью/Git Bash.md",
+    "Работа с консолью/Консоль. Команда ls.md",
+    "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
     "Схема работы с Obsidian/Права пользователей в Linux.md",
     "Схема работы с Obsidian/Поиск по файлам.md",
-    "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
     "Pasted image 20240523211531.png",
-    "Работа с консолью/Git Bash.md",
     "Untitled",
     "Права пользователей в Linux.pdf",
     "Pasted image 20240523202830.png",
     "Tests/Untitled.md",
     "Работа с консолью/Untitled.md",
-    "Работа с консолью/Консоль. Команда ls.md",
     "Excalidraw/Drawing 2024-05-23 19.22.24.excalidraw.md",
     "Excalidraw",
     "Схема работы с Obsidian",
     "github-update.sh",
     "Pasted image 20240521201154.png",
-    "Pasted image 20240521194153.png",
     "Templates/Basic Note.md",
     "Templates/Daily Note.md",
     "Работа с консолью",
@@ -215,7 +222,6 @@
     "ISTQB выжимки/Карта знаний QA ISTQB.md",
     "Templates",
     "Тестирование в течение жизненного цикла разработки ПО.md",
-    "Pasted image 20240516192254.png",
     "статическое тестирование.md",
     "2024-05-14.md",
     "Untitled.canvas",
