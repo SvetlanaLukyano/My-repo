@@ -11,6 +11,6 @@ git pull
 
 git add --all
 
-git commit -m "Info: результат работы урока 42"
+git commit -m "Info: результат работы урока"
 
 git push
