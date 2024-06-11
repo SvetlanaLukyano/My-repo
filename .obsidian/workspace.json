@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с консолью/GameDev.md",
+                "file": "Работа с консолью/Мобильная Разработка.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с консолью/GameDev.md",
+                "file": "Работа с консолью/Мобильная Разработка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с консолью/GameDev.md",
+                "file": "Работа с консолью/Мобильная Разработка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с консолью/GameDev.md"
+                "file": "Работа с консолью/Мобильная Разработка.md"
               }
             }
           }
@@ -180,15 +180,16 @@
   },
   "active": "f9637e27fd5bc691",
   "lastOpenFiles": [
+    "Схема работы с Obsidian/Права пользователей в Linux.md",
+    "Работа с консолью/Мобильная Разработка.md",
+    "Работа с консолью/GameDev.md",
+    "Работа с консолью/Git Bash.md",
     "Работа с консолью/Ветки Git.md",
     "рис.png",
-    "Работа с консолью/Git Bash.md",
-    "Работа с консолью/GameDev.md",
     "Работа с консолью/Java файлы.md",
     "Работа с консолью/Untitled",
     "Работа с консолью/SSH Agent.md",
     "Схема работы с Obsidian/Редактирование и Чтение файлов в Linux.md",
-    "Схема работы с Obsidian/Права пользователей в Linux.md",
     "Calendar/2024-05-16.md",
     "Excalidraw/Drawing 2024-05-23 19.22.24.excalidraw.md",
     "Тестирование в течение жизненного цикла разработки ПО.md",
