@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с консолью/Мобильная Разработка.md",
+                "file": "Мобильная Разработка.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с консолью/Мобильная Разработка.md",
+                "file": "Мобильная Разработка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с консолью/Мобильная Разработка.md",
+                "file": "Мобильная Разработка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с консолью/Мобильная Разработка.md"
+                "file": "Мобильная Разработка.md"
               }
             }
           }
@@ -178,10 +178,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f9637e27fd5bc691",
+  "active": "ee16cb251201ef3d",
   "lastOpenFiles": [
     "Схема работы с Obsidian/Права пользователей в Linux.md",
-    "Работа с консолью/Мобильная Разработка.md",
+    "Мобильная Разработка.md",
     "Работа с консолью/GameDev.md",
     "Работа с консолью/Git Bash.md",
     "Работа с консолью/Ветки Git.md",
