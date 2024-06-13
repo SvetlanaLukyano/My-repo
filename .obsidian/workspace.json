@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a750bf8f82215d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мобильная Разработка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,11 +190,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ee16cb251201ef3d",
+  "active": "a750bf8f82215d71",
   "lastOpenFiles": [
+    "Pasted image 20240613211305.png",
+    "Работа с консолью/GameDev.md",
     "Схема работы с Obsidian/Права пользователей в Linux.md",
     "Мобильная Разработка.md",
-    "Работа с консолью/GameDev.md",
     "Работа с консолью/Git Bash.md",
     "Работа с консолью/Ветки Git.md",
     "рис.png",
@@ -224,7 +237,6 @@
     "Tests/Untitled",
     "Tests",
     "Calendar/2024-05-16 1.md",
-    "Calendar/2024-W21.md",
     "Calendar",
     "Untitled.canvas",
     "Untitled 1.canvas"
