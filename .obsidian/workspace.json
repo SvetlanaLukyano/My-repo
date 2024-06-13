@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Схема работы с Obsidian/Права пользователей в Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9637e27fd5bc691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Мобильная Разработка.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a750bf8f82215d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Мобильная Разработка.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,12 +165,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a750bf8f82215d71",
+  "active": "c248ecdc76d69709",
   "lastOpenFiles": [
-    "Pasted image 20240613211305.png",
-    "Работа с консолью/GameDev.md",
     "Схема работы с Obsidian/Права пользователей в Linux.md",
     "Мобильная Разработка.md",
+    "Pasted image 20240613211635.png",
+    "Pasted image 20240613211305.png",
+    "Работа с консолью/GameDev.md",
     "Работа с консолью/Git Bash.md",
     "Работа с консолью/Ветки Git.md",
     "рис.png",
@@ -219,8 +195,6 @@
     "Pasted image 20240528210321.png",
     "Pasted image 20240528210143.png",
     "Pasted image 20240528202327.png",
-    "Pasted image 20240528202210.png",
-    "Pasted image 20240528194148.png",
     "Untitled",
     "Права пользователей в Linux.pdf",
     "Tests/Untitled.md",
