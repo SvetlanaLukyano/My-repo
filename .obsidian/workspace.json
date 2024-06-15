@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISTQB выжимки/Карта знаний QA ISTQB.md",
+                "file": "Мобильная Разработка.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,6 +78,7 @@
       {
         "id": "bedb850beb4a9406",
         "type": "tabs",
+        "dimension": 63.653846153846146,
         "children": [
           {
             "id": "6de4715f0f9b8680",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISTQB выжимки/Карта знаний QA ISTQB.md",
+                "file": "Мобильная Разработка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISTQB выжимки/Карта знаний QA ISTQB.md",
+                "file": "Мобильная Разработка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +126,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISTQB выжимки/Карта знаний QA ISTQB.md"
+                "file": "Мобильная Разработка.md"
               }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5321d4ddd3cd0a27",
+        "type": "tabs",
+        "dimension": 36.34615384615385,
+        "children": [
+          {
+            "id": "6cde68b2db50226b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 351.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,20 +160,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "c248ecdc76d69709",
   "lastOpenFiles": [
-    "ISTQB выжимки/Карта знаний QA ISTQB.md",
-    "динамическим тестированием.md",
-    "статическое тестирование.md",
+    "Схема работы с Obsidian/Права пользователей в Linux.md",
+    "Мобильная Разработка.md",
+    "Pasted image 20240613211635.png",
+    "Pasted image 20240613211305.png",
+    "Работа с консолью/GameDev.md",
+    "Работа с консолью/Git Bash.md",
+    "Работа с консолью/Ветки Git.md",
+    "рис.png",
+    "Работа с консолью/Java файлы.md",
+    "Работа с консолью/Untitled",
+    "Работа с консолью/SSH Agent.md",
+    "Схема работы с Obsidian/Редактирование и Чтение файлов в Linux.md",
+    "Calendar/2024-05-16.md",
+    "Excalidraw/Drawing 2024-05-23 19.22.24.excalidraw.md",
     "Тестирование в течение жизненного цикла разработки ПО.md",
-    "2024-05-14.md",
+    "статическое тестирование.md",
+    "Клонирование репозитория.md",
+    "динамическим тестированием.md",
+    "Схема работы с Obsidian/Поиск по файлам.md",
+    "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
+    "Работа с консолью/Консоль. Команда ls.md",
+    "Pasted image 20240528215219.png",
+    "Pasted image 20240528214807.png",
+    "Pasted image 20240528214639.png",
+    "Pasted image 20240528213905.png",
+    "Pasted image 20240528210321.png",
+    "Pasted image 20240528210143.png",
+    "Pasted image 20240528202327.png",
+    "Untitled",
+    "Права пользователей в Linux.pdf",
+    "Tests/Untitled.md",
+    "Excalidraw",
+    "Схема работы с Obsidian",
+    "github-update.sh",
+    "Templates/Basic Note.md",
+    "Templates/Daily Note.md",
+    "Работа с консолью",
+    "Templates/Test Case.md",
+    "Templates/Weekly Note.md",
+    "Tests/Тест кейс по проверке работы.md",
+    "Tests/Test Case number 1.md",
+    "Tests/Untitled",
+    "Tests",
+    "Calendar/2024-05-16 1.md",
+    "Calendar",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled.md",
-    "==статическим тестированием==.md",
-    "ISTQB выжимки"
+    "Untitled 1.canvas"
   ]
 }
