@@ -35,17 +35,10 @@ UML диаграммы
 BPMN Business Process Model and Notation диаграммы
 Flowcharts диаграммы
 
-<<<<<<< HEAD
-Жизненный цикл разработки ПО см. [[файл ]] 
-=======
-<<<<<<< HEAD
-=======
 Жизненный цикл разработки ПО см. файл [[https://github.com/SvetlanaLukyano/My-repo/blob/main/%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%2B1.2.%2B%D0%9F%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%2BSDLC%2B%D0%B8%2BSTLC.pdf]]
->>>>>>> 61ae157485c1844de29dd54568f06710de3156bd
 
 схема Git [[https://github.com/SvetlanaLukyano/My-repo/blob/main/Jit%20Scheme.jpg]]
 
 
->>>>>>> 2f2bac453c4cb26f5966b0193e38b90b42859e89
 
 
