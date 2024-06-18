@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Мобильная Разработка.md",
+                "file": "Работа с удаленным сервером.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мобильная Разработка.md",
+                "file": "Работа с удаленным сервером.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Мобильная Разработка.md",
+                "file": "Работа с удаленным сервером.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мобильная Разработка.md"
+                "file": "Работа с удаленным сервером.md"
               }
             }
           }
@@ -167,8 +167,9 @@
   },
   "active": "c248ecdc76d69709",
   "lastOpenFiles": [
-    "Схема работы с Obsidian/Права пользователей в Linux.md",
     "Мобильная Разработка.md",
+    "Работа с удаленным сервером.md",
+    "Схема работы с Obsidian/Права пользователей в Linux.md",
     "Pasted image 20240613211635.png",
     "Pasted image 20240613211305.png",
     "Работа с консолью/GameDev.md",
