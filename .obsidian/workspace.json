@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с удаленным сервером.md",
+                "file": "Работа с консолью/Web-приложения.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с удаленным сервером.md",
+                "file": "Работа с консолью/Web-приложения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с удаленным сервером.md",
+                "file": "Работа с консолью/Web-приложения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с удаленным сервером.md"
+                "file": "Работа с консолью/Web-приложения.md"
               }
             }
           }
@@ -167,8 +167,13 @@
   },
   "active": "c248ecdc76d69709",
   "lastOpenFiles": [
-    "Мобильная Разработка.md",
+    "Pasted image 20240620212711.png",
+    "Pasted image 20240620211154.png",
+    "Pasted image 20240620201945.png",
+    "Pasted image 20240620194531.png",
     "Работа с удаленным сервером.md",
+    "Работа с консолью/Web-приложения.md",
+    "Мобильная Разработка.md",
     "ISTQB выжимки/файл.md",
     "GIT_cheatsheet.pdf",
     "Схема работы с Obsidian/Права пользователей в Linux.md",
@@ -195,9 +200,6 @@
     "Pasted image 20240528214807.png",
     "Pasted image 20240528214639.png",
     "Pasted image 20240528213905.png",
-    "Pasted image 20240528210321.png",
-    "Pasted image 20240528210143.png",
-    "Pasted image 20240528202327.png",
     "Untitled",
     "Права пользователей в Linux.pdf",
     "Tests/Untitled.md",
@@ -209,8 +211,6 @@
     "Работа с консолью",
     "Templates/Test Case.md",
     "Templates/Weekly Note.md",
-    "Tests/Тест кейс по проверке работы.md",
-    "Tests/Test Case number 1.md",
     "Tests/Untitled",
     "Tests",
     "Untitled.canvas",
