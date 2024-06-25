@@ -45,3 +45,6 @@ Help -> SSL Proxy -> Instal Charles Root  Certificate
 Нажать Add , указать Host и Port. Если указать `*` в каждом поле, то сниффинг будет по всем портам, всем хостам
 
 Убедиться, что галочка напротив Windows Proxy в меню Proxy включена.
+
+
+

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94e0eb0caf8f2a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
+                "file": "Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
+                "file": "Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md"
+                "file": "Docker.md"
               }
             }
           }
@@ -165,26 +178,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c248ecdc76d69709",
+  "active": "94e0eb0caf8f2a61",
   "lastOpenFiles": [
+    "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
+    "Docker.md",
+    "Pasted image 20240625205746.png",
+    "Pasted image 20240625205713.png",
     "Pasted image 20240625193322.png",
     "Pasted image 20240625191807.png",
     "Работа с консолью/Web-приложения.md",
-    "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
     "Pasted image 20240620215343.png",
     "Pasted image 20240620215056.png",
     "Pasted image 20240620214548.png",
     "Pasted image 20240620212711.png",
     "Pasted image 20240620211154.png",
     "Pasted image 20240620201945.png",
-    "Pasted image 20240620194531.png",
     "Работа с удаленным сервером.md",
     "Мобильная Разработка.md",
     "ISTQB выжимки/файл.md",
     "GIT_cheatsheet.pdf",
     "Схема работы с Obsidian/Права пользователей в Linux.md",
-    "Pasted image 20240613211635.png",
-    "Pasted image 20240613211305.png",
     "Работа с консолью/GameDev.md",
     "Работа с консолью/Git Bash.md",
     "Работа с консолью/Ветки Git.md",
@@ -210,7 +223,6 @@
     "Templates/Basic Note.md",
     "Templates/Daily Note.md",
     "Работа с консолью",
-    "Templates/Test Case.md",
     "Tests/Untitled",
     "Tests",
     "Untitled.canvas",
