@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с консолью/Web-приложения.md",
+                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа с консолью/Web-приложения.md",
+                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Работа с консолью/Web-приложения.md",
+                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с консолью/Web-приложения.md"
+                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md"
               }
             }
           }
@@ -167,6 +167,10 @@
   },
   "active": "c248ecdc76d69709",
   "lastOpenFiles": [
+    "Pasted image 20240625193322.png",
+    "Pasted image 20240625191807.png",
+    "Работа с консолью/Web-приложения.md",
+    "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
     "Pasted image 20240620215343.png",
     "Pasted image 20240620215056.png",
     "Pasted image 20240620214548.png",
@@ -175,7 +179,6 @@
     "Pasted image 20240620201945.png",
     "Pasted image 20240620194531.png",
     "Работа с удаленным сервером.md",
-    "Работа с консолью/Web-приложения.md",
     "Мобильная Разработка.md",
     "ISTQB выжимки/файл.md",
     "GIT_cheatsheet.pdf",
@@ -185,7 +188,6 @@
     "Работа с консолью/GameDev.md",
     "Работа с консолью/Git Bash.md",
     "Работа с консолью/Ветки Git.md",
-    "рис.png",
     "Работа с консолью/Java файлы.md",
     "Работа с консолью/Untitled",
     "Работа с консолью/SSH Agent.md",
@@ -199,7 +201,6 @@
     "Схема работы с Obsidian/Поиск по файлам.md",
     "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
     "Работа с консолью/Консоль. Команда ls.md",
-    "Pasted image 20240528215219.png",
     "Untitled",
     "Права пользователей в Linux.pdf",
     "Tests/Untitled.md",
@@ -210,7 +211,6 @@
     "Templates/Daily Note.md",
     "Работа с консолью",
     "Templates/Test Case.md",
-    "Templates/Weekly Note.md",
     "Tests/Untitled",
     "Tests",
     "Untitled.canvas",
