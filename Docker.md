@@ -14,3 +14,44 @@ Docker Client — программа, передающая команды пол
 
 Докер контейнер создаётся на основе контейнера
 
+## Команды для Докера
+
+Пошаговая установка Докер
+https://docs.docker.com/engine/install/ubuntu/
+первые 2 шага, скопировать точно, исправить значок `\` переход на новую строку
+
+Запустить контейнер с именем hello-container из образа hello-world
+
+```shell
+docker run --name hello-container hello-world
+```
+
+`docker` - вызов докер-клиента
+`run `  команда для докера контейнера Запусти контейнер 
+`-- name hello-container`  - параметр для команды run
+`hello world ` 
+
+
+![[Pasted image 20240627205622.png]]
+
+![[Pasted image 20240627200950.png]]
+
+
+Показать список всех образов, которые есть локально
+```shell
+sudo docker image ls -a
+```
+ 
+Удалить по первым 4 символам 
+```shell
+sudo docker container remove a934
+```
+
+Удалить образ (получится, если не существует контейнера, созданного из этого образа)
+```shell
+sudo docker rm hello-world
+```
+
+```shell
+
+```

@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afb65e076142fb6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed8b4b1dfbe30bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1356845c2054440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "БД.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker.md",
+                "file": "БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker.md",
+                "file": "БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker.md"
+                "file": "БД.md"
               }
             }
           }
@@ -178,10 +214,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "94e0eb0caf8f2a61",
+  "active": "ee16cb251201ef3d",
   "lastOpenFiles": [
-    "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
     "Docker.md",
+    "БД.md",
+    "README.md",
+    "Pasted image 20240627205622.png",
+    "Pasted image 20240627200950.png",
+    "Работа с удаленным сервером.md",
+    "Pasted image 20240627191359.png",
+    "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
     "Pasted image 20240625205746.png",
     "Pasted image 20240625205713.png",
     "Pasted image 20240625193322.png",
@@ -190,10 +232,6 @@
     "Pasted image 20240620215343.png",
     "Pasted image 20240620215056.png",
     "Pasted image 20240620214548.png",
-    "Pasted image 20240620212711.png",
-    "Pasted image 20240620211154.png",
-    "Pasted image 20240620201945.png",
-    "Работа с удаленным сервером.md",
     "Мобильная Разработка.md",
     "ISTQB выжимки/файл.md",
     "GIT_cheatsheet.pdf",
@@ -221,7 +259,6 @@
     "Схема работы с Obsidian",
     "github-update.sh",
     "Templates/Basic Note.md",
-    "Templates/Daily Note.md",
     "Работа с консолью",
     "Tests/Untitled",
     "Tests",
