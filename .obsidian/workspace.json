@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "БАЗЫ ДАННЫХ.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a672a5efa79f495d",
+  "active": "afb65e076142fb6e",
   "lastOpenFiles": [
     "Docker.md",
     "БАЗЫ ДАННЫХ.md",
