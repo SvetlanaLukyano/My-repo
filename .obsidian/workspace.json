@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c248ecdc76d69709",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "94e0eb0caf8f2a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afb65e076142fb6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "БАЗЫ ДАННЫХ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed8b4b1dfbe30bc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1356845c2054440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,12 +190,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "afb65e076142fb6e",
+  "active": "a672a5efa79f495d",
   "lastOpenFiles": [
     "Docker.md",
+    "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
     "БАЗЫ ДАННЫХ.md",
     "Data Base.md",
-    "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
     "Работа с консолью/Ветки Git.md",
     "README.md",
     "Pasted image 20240627205622.png",
