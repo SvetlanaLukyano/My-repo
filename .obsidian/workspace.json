@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3025b51c88ccfa25",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20240910193626.png"
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -192,23 +202,24 @@
   },
   "active": "a672a5efa79f495d",
   "lastOpenFiles": [
-    "Pasted image 20240903220042.png",
-    "Pasted image 20240903215731.png",
-    "Pasted image 20240903215625.png",
-    "Pasted image 20240903215326.png",
-    "Pasted image 20240903214510.png",
-    "Pasted image 20240903214336.png",
-    "Pasted image 20240903214056.png",
-    "Pasted image 20240903213631.png",
-    "Pasted image 20240903204849.png",
-    "Pasted image 20240903204802.png",
-    "Docker.md",
     "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
     "БАЗЫ ДАННЫХ.md",
+    "Pasted image 20240910193626.png",
+    "Pasted image 20240910213834.png",
+    "Pasted image 20240910195702.png",
+    "Pasted image 20240910194655.png",
+    "Pasted image 20240910194615.png",
+    "Pasted image 20240910194505.png",
+    "Untitled.md",
+    "Untitled",
+    "Pasted image 20240910192410.png",
+    "Pasted image 20240910192304.png",
+    "Pasted image 20240910190203.png",
+    "Pasted image 20240903220042.png",
+    "Docker.md",
     "Data Base.md",
     "Работа с консолью/Ветки Git.md",
     "README.md",
-    "Pasted image 20240627205622.png",
     "Работа с удаленным сервером.md",
     "Работа с консолью/Web-приложения.md",
     "Мобильная Разработка.md",
@@ -229,8 +240,6 @@
     "динамическим тестированием.md",
     "Схема работы с Obsidian/Поиск по файлам.md",
     "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
-    "Работа с консолью/Консоль. Команда ls.md",
-    "Untitled",
     "Права пользователей в Linux.pdf",
     "Excalidraw",
     "Схема работы с Obsidian",
