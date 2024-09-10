@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94e0eb0caf8f2a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db34c3320c5cc4e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a672a5efa79f495d",
             "type": "leaf",
             "state": {
@@ -42,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3025b51c88ccfa25",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240910193626.png"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,6 +167,7 @@
   },
   "active": "a672a5efa79f495d",
   "lastOpenFiles": [
+    "Docker.md",
     "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
     "БАЗЫ ДАННЫХ.md",
     "Pasted image 20240910193626.png",
@@ -216,7 +182,6 @@
     "Pasted image 20240910192304.png",
     "Pasted image 20240910190203.png",
     "Pasted image 20240903220042.png",
-    "Docker.md",
     "Data Base.md",
     "Работа с консолью/Ветки Git.md",
     "README.md",
