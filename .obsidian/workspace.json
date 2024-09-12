@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a672a5efa79f495d",
+            "id": "1046c2214afc2126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "БАЗЫ ДАННЫХ.md",
+                "file": "Автоматизация тестирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "БАЗЫ ДАННЫХ.md",
+                "file": "Автоматизация тестирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "БАЗЫ ДАННЫХ.md",
+                "file": "Автоматизация тестирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "БАЗЫ ДАННЫХ.md"
+                "file": "Автоматизация тестирования.md"
               }
             }
           }
@@ -165,23 +165,31 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a672a5efa79f495d",
+  "active": "1046c2214afc2126",
   "lastOpenFiles": [
+    "Pasted image 20240912211643.png",
+    "AutoTests/Untitled-1.java",
+    "AutoTests/index.html",
+    "AutoTests",
+    "Новая папка",
+    "index.html",
+    "Pasted image 20240912200451.png",
+    "Pasted image 20240912194346.png",
+    "Автоматизация тестирования.md",
+    "Работа с консолью/Консоль. Команда ls.md",
+    "БАЗЫ ДАННЫХ.md",
+    "Работа с консолью/Untitled.md",
     "Docker.md",
     "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
-    "БАЗЫ ДАННЫХ.md",
     "Pasted image 20240910193626.png",
     "Pasted image 20240910213834.png",
     "Pasted image 20240910195702.png",
     "Pasted image 20240910194655.png",
     "Pasted image 20240910194615.png",
     "Pasted image 20240910194505.png",
-    "Untitled.md",
     "Untitled",
     "Pasted image 20240910192410.png",
     "Pasted image 20240910192304.png",
-    "Pasted image 20240910190203.png",
-    "Pasted image 20240903220042.png",
     "Data Base.md",
     "Работа с консолью/Ветки Git.md",
     "README.md",
@@ -203,15 +211,8 @@
     "статическое тестирование.md",
     "Клонирование репозитория.md",
     "динамическим тестированием.md",
-    "Схема работы с Obsidian/Поиск по файлам.md",
-    "Схема работы с Obsidian/Команды Вывода, Передачи и Просмотра процессов.md",
     "Права пользователей в Linux.pdf",
     "Excalidraw",
-    "Схема работы с Obsidian",
-    "github-update.sh",
-    "Работа с консолью",
-    "Tests/Untitled",
-    "Tests",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
