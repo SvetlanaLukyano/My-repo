@@ -16,10 +16,27 @@
                 "file": "Автоматизация тестирования.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Автоматизация тестирования"
+            }
+          },
+          {
+            "id": "c62865dda5aa7b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Автоматизация тестирования.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Автоматизация тестирования"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -94,7 +117,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Автоматизация тестирования"
             }
           },
           {
@@ -106,7 +131,9 @@
                 "file": "Автоматизация тестирования.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Автоматизация тестирования"
             }
           },
           {
@@ -117,7 +144,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -127,7 +156,9 @@
               "type": "outline",
               "state": {
                 "file": "Автоматизация тестирования.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Автоматизация тестирования"
             }
           }
         ],
@@ -143,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -165,19 +198,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1046c2214afc2126",
+  "active": "c62865dda5aa7b1b",
   "lastOpenFiles": [
+    "Pasted image 20241029212714.png",
+    "Pasted image 20241029212331.png",
+    "Pasted image 20241029211634.png",
+    "Pasted image 20241029205221.png",
+    "Pasted image 20241029205047.png",
+    "Pasted image 20241029204902.png",
+    "Pasted image 20241029203321.png",
+    "Pasted image 20241029200636.png",
+    "Untitled",
     "Pasted image 20241017213740.png",
     "Pasted image 20241017213321.png",
     "Pasted image 20241017212733.png",
-    "Pasted image 20241017212724.png",
-    "Pasted image 20241017212035.png",
-    "Pasted image 20241017211942.png",
-    "Pasted image 20241017210217.png",
-    "Pasted image 20241015213828.png",
-    "Pasted image 20241015211053.png",
-    "Pasted image 20241015203340.png",
-    "Pasted image 20241015201402.png",
     "AutoTests/Untitled-1.java",
     "AutoTests/index.html",
     "AutoTests",
@@ -189,7 +223,6 @@
     "Работа с консолью/Untitled.md",
     "Docker.md",
     "Работа с консолью/Анализаторы Трафика Wireshark Charles.md",
-    "Untitled",
     "Data Base.md",
     "Работа с консолью/Ветки Git.md",
     "README.md",
