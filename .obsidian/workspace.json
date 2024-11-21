@@ -62,18 +62,6 @@
               "icon": "lucide-file",
               "title": "Автоматизация тестирования"
             }
-          },
-          {
-            "id": "fbe70703b8b8014b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20241107212046.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241107212046"
-            }
           }
         ],
         "currentTab": 3
@@ -240,18 +228,18 @@
   },
   "active": "39de260385c894ee",
   "lastOpenFiles": [
-    "Pasted image 20241121201437.png",
+    "Pasted image 20241121212106.png",
+    "Pasted image 20241121195040.png",
+    "Автоматизация тестирования.md",
     "Pasted image 20241121201031.png",
+    "Pasted image 20241107212046.png",
+    "Pasted image 20241121201437.png",
     "Pasted image 20241121200923.png",
     "Pasted image 20241121200740.png",
-    "Pasted image 20241121195040.png",
     "Pasted image 20241112201205.png",
-    "Pasted image 20241107212046.png",
-    "Автоматизация тестирования.md",
     "Pasted image 20241107213930.png",
     "Pasted image 20241107213115.png",
     "Pasted image 20241107213006.png",
-    "Pasted image 20241107212630.png",
     "Untitled",
     "AutoTests/Untitled-1.java",
     "AutoTests/index.html",
