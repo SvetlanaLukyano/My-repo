@@ -76,6 +76,18 @@
               "icon": "lucide-file",
               "title": "Автоматизация тестирования"
             }
+          },
+          {
+            "id": "5ed1de2d824e58e2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241128202929.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241128202929"
+            }
           }
         ],
         "currentTab": 4
@@ -242,13 +254,14 @@
   },
   "active": "7ce6cfc814e9d25e",
   "lastOpenFiles": [
+    "Pasted image 20241128202929.png",
+    "Автоматизация тестирования.md",
     "Pasted image 20241128193652.png",
     "Pasted image 20241128193613.png",
     "Pasted image 20241128193535.png",
     "Pasted image 20241128193506.png",
     "Pasted image 20241128193354.png",
     "БАЗЫ ДАННЫХ.md",
-    "Автоматизация тестирования.md",
     "chromedriver_win32/LICENSE.chromedriver",
     "chromedriver_win32/chromedriver.exe",
     "chromedriver_win32",
@@ -256,8 +269,6 @@
     "Pasted image 20241121212106.png",
     "Pasted image 20241121195040.png",
     "Pasted image 20241121201031.png",
-    "Pasted image 20241107212046.png",
-    "Pasted image 20241121201437.png",
     "Untitled",
     "AutoTests/Untitled-1.java",
     "AutoTests/index.html",
